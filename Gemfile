@@ -43,7 +43,7 @@ gem 'omniauth-openid'
 gem 'omniauth-twitter'
 
 group :production do
-  gem 'pg', '9.5.2'
+  gem 'pg'
 end
 
 group :private do
